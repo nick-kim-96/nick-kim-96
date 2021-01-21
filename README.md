@@ -37,7 +37,10 @@ Hey, I'm [Nicholas Kim](https://www.linkedin.com/in/kim-nick/), currently a comp
 
 📈 My GitHub Stats
 
-<a href="https://github.com/nick-kim-96" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick-kim-96&hide=CMAKE,HTML&&theme=solarized-light" />
+<a href="https://github.com/nick-kim-96">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick-kim-96&hide=CMAKE,HTML&&theme=solarized-light" />
+</a>
 
-<a href="https://github.com/nick-kim-96" align="right"> <img src="https://github-readme-stats.vercel.app/api?username=nick-kim-96&show_icons=true&theme=solarized-light" alt="nick-kim-96" />
+<a href="https://github.com/nick-kim-96"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nick-kim-96&show_icons=true&theme=solarized-light" alt="nick-kim-96" />
+</a>
