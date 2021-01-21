@@ -11,7 +11,7 @@
 
 Hey, I'm [Nicholas Kim](https://www.linkedin.com/in/kim-nick/), currently a computer science student at San Jose State University.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/nick-kim-96/nick-kim-96/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 🔭 I’m currently working on homework
 - 🌱 I’m currently learning AWS
