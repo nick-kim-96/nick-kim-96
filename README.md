@@ -17,7 +17,7 @@ Hey, I'm [Nicholas Kim](https://www.linkedin.com/in/kim-nick/), currently a comp
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on a potential podcast
 - 💬 Ask me about Java, Python, and React!
-- 📫 How to reach me: [<img src="https://img.shields.io/badge/Email-nick.96.kim.y%40gmail.com-informational">](mailto:nick.96.kim.y@gmail.com)
+- 📫 How to reach me: [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/jtWlJHUA)
 - 📝[Resume](https://docs.google.com/document/d/135ICR0uDjca1PL_dVqdKuZuUj6dmCqIAj7BK0zl7Th4/edit?usp=sharing)
 
 **Languages and Tools:**  
