@@ -1,24 +1,18 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/kim-nick/">
-  <img align="left" alt="Nick's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/hoopla221">
-  <img align="left" alt="Nick's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 <br />
 <br />
 
-Hey, I'm [Nicholas Kim](https://www.linkedin.com/in/kim-nick/), currently a computer science student at San Jose State University.
+Hey, I'm [Nicholas Kim](https://www.linkedin.com/in/kim-nick/), this is my personal github.
 
 <img align="right" alt="GIF" src="https://github.com/nick-kim-96/nick-kim-96/blob/main/code.gif?raw=true" width="500" height="320" />
 
-- 🔭 I’m currently working on homework
+- 🔭 I’m currently working on work stuff
 - 🌱 I’m currently learning AWS
-- 👯 I’m looking to collaborate on a potential podcast
+- 👯 I’m looking to collaborate on a potential project
 - 💬 Ask me about Java, Python, and React!
 - 📫 How to reach me: [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/jtWlJHUA)
-- 📝[Resume](https://docs.google.com/document/d/1WsthHiJK9HpyQwfAx7u2mXcE2V72vJC1eP65lRzXnbk/edit?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/10y2LwzWR3innO5cBQmp3cPP-hnMgPMqt/view?usp=sharing)
 
 **Languages and Tools:**  
 
